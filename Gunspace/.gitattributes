@@ -1,3 +1,3 @@
-* linguist-vendored
+
 Gunspace/*.html linguist-detectable=false
 Gunspace/*.python linguist-detectable=true
