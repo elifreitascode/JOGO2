@@ -1,4 +1,4 @@
-# Jogo
+# Jogo em Python
 O jogo Gun Space, é fruto de um trabalho desenvolvido em sala de aula. Aonde foram divididos alguns grupos e o meu grupo ficou
 com 5 integrantes. A avaliação era feita de forma cruzada, aonde os próprios integrantes ficaram responsáveis por avaliar uns aos outros. Uns ficaram responsáveis pela parte de design e outros responsáveis por criar o código e toda parte de lógica pra o jogo funcionar.
 
