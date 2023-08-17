@@ -6,4 +6,4 @@ O Gun Space é um jogo de plataforma e tiro, que se passa no espaço. Pra fazer 
 
 Pra rodar o código você irá precisar ter as imagens que estão na pasta, o video de introdução, a biblioteca Pygame, a biblioteca Moviepy.editor, a biblioteca Csv, a biblioteca Button, a OS e por final a Random. 
 
-Na pasta também tem o arquivo executável.
+Na pasta também tem o arquivo executável. 
